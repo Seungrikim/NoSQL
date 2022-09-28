@@ -1,0 +1,17 @@
+! MISSING FIELDS
+  - count
+  - id
+  
+! FORMAT MISMATCH
+  - Example of expected document:
+  {
+      "count": 7,
+      "id": 1532,
+      "name": "Bill Murray"
+  }
+  
+  - Your document:
+  {
+      "name": "Wes Anderson"
+  }
+  
